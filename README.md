@@ -1,8 +1,6 @@
 # Furniture Ecom — React Native Take-home
 
-A React Native (RN 0.85) furniture e-commerce app built for the Round-2
-technical assessment. The app implements an intro splash, a product list
-with grid/list views, date-wise grouping, quick search, a product detail
+A React Native furniture e-commerce application developed as part of a technical assessment. The app implements an intro splash, a product list with grid/list views, date-wise grouping, quick search, a product detail
 screen with a custom rating bar, deep linking, offline support and Redux
 Persist.
 
